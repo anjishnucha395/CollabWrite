@@ -1,6 +1,6 @@
 # CollabWrite
 
-CollabWrite enables many users to write poems, stories, events, songs etc.collaboratively. It can be used by anyone to share their creation or thoughts in a social media kind of platform where other users can also contribute to his/her thoughts.Due to its collaborative feature, our project will provide the right platform for the writers, music composers etc. to do their job in a more effective manner and with better user experience.
+CollabWrite is the process of many users writing poems, stories, events, songs etc. collaboratively. It can be used by anyone to share their creation or thoughts in a social media kind of platform where other users can also contribute to his/her thoughts. Additionally users get the traditional social media features like notification, upvote/like, sending friend requests to the collaborators etc.
 
 
 ## Features:
@@ -31,15 +31,13 @@ The various DevOps tools used in this project are listed below:
 - Continuous Monitoring: Elasticsearch-Logstash-Kibana
 
 
-## Install:
-
 ### Docker Image:
 
 The docker image is available in [Docker Hub](https://hub.docker.com/r/spefinalproject/collabwrite/)
 
 To try out the CollabWrite container run the following command.
 
-    docker run -it 8081:8081 spefinalprojecet/tester:latest
+    docker run -it -p 8081:8081 spefinalproject/collabwrite:latest
 
 ### Run it Locally:
 
