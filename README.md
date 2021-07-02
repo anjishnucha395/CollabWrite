@@ -33,7 +33,7 @@ The various DevOps tools used in this project are listed below:
 
 ### Docker Image:
 
-The docker image is available in [Docker Hub](https://hub.docker.com/r/spefinalproject/collabwrite/)
+The docker image is available in [Docker Hub](https://hub.docker.com/r/anjishnu395/collabwrite/)
 
 To try out the CollabWrite container run the following command.
 
