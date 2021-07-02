@@ -37,7 +37,7 @@ The docker image is available in [Docker Hub](https://hub.docker.com/r/spefinalp
 
 To try out the CollabWrite container run the following command.
 
-    docker run -it -p 8081:8081 spefinalproject/collabwrite:latest
+    docker run -it -p 8081:8081 anjishnu395/collabwrite:latest
 
 ### Run it Locally:
 
